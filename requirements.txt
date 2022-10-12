@@ -1,0 +1,6 @@
+bidict==0.22.0
+Pillow==9.1.1
+python-engineio==4.3.2
+python-socketio==5.6.0
+pywin32==304
+ttkbootstrap==1.8.0
